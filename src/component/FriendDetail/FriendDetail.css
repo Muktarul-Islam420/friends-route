@@ -1,0 +1,27 @@
+.detail-container{
+    height: 400px;
+    width:400px;
+    background-image: linear-gradient(to right,deeppink,cyan);
+    box-shadow: 10px 10px 10px grey;
+    color:white;
+    text-shadow: 1px 1px 2px  red;
+    text-align:center;
+    margin-left:40%;
+    margin-top:10%;
+    border-radius:10px;
+    cursor: pointer;
+}
+.text-box{
+    margin-top:20px;
+}
+.name-text{
+    color:tomato;
+    font-size:26px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 2px darkcyan;
+}
+.name-text:hover{
+    color:orangered;
+    text-shadow: 2px 2px 2px cyan;
+
+}

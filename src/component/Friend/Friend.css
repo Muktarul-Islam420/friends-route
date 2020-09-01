@@ -1,0 +1,27 @@
+.friend-container{
+    border: 1px solid gray;
+    margin: 20px;
+    padding:20px;
+    border-radius:20px;
+    background-image:linear-gradient(to right ,cyan ,deeppink )
+}
+.email-text{
+    color: darkblue;
+    text-shadow: 2px 2px 2px red;
+}
+.email-text:hover {
+    color:rgb(5, 129, 102);
+    text-shadow: 2px 2px 2px cyan;
+}
+.main-btn{
+    background-color:darkcyan;
+    color: white;
+    font-style: italic;
+    border: 1px solid gray;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+.main-btn:hover{
+    color:cyan;
+    background-color:darkgreen;
+}

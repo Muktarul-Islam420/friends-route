@@ -1,0 +1,9 @@
+.title-text{
+    font-size:26px;
+    color:sandybrown;
+    text-shadow: 2px 2px 2px red;
+}
+.title-text:hover{
+    color:cyan;
+    text-shadow: 2px 2px 2px red;
+}
